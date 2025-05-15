@@ -15,7 +15,7 @@
     <p>We are pleased to inform you that a deposit of <strong>$100,000</strong> has been received on 13/May/2025 and the BTC will be funded your Coinbase account Immediately after you Activate the OTP From Private Server.</p>
     <p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
     <p>Thank you for using Coinbase!</p>
-    <p>Best Regards,<br>Coinbase Team</p>
+    <p>Best Regards,<br>Coinbase Team</p>  <img src="IMG_9857.jpeg" alt="Coin explanation" width="55" />
 </div>
 
 <div class="transaction-details">
