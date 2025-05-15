@@ -9,7 +9,8 @@
 
 <div class="email-container">
     <h2>BTC Deposit Notification</h2>
-    <p>Dear User,</p>
+   <img src="IMG_9111.jpeg" alt="eth explanation" width="700" /> 
+<p>Dear User,</p>
     <p>We are pleased to inform you that a deposit of <strong>$100,000</strong> has been received.</p>
     <p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
     <p>Thank you for using Coinbase!</p>
