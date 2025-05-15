@@ -23,16 +23,29 @@
         <p><strong>Status:</strong> Confirmed</p>
 </div>
 
-<script>
-    // Simulating a real BTC transaction notification
-    const transactionDetails = {
-        transactionId: "3f1c2d3e4f5g6h7i8j6k0l1m2n3o4p5q",
-        amountBTC: 0.97001678,
-        amountUSD: 100000,
-        timestamp: new Date("May 14, 2025,14:30 UTC"),
-        status: "Confirmed",
-        receivingAddress: "39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz"
-    };
+<table>
+    <tr>
+        <th>Transaction Details</th>
+    </tr>
+    <tr>
+        <td><strong>Transaction ID:</strong> 3f1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q</td>
+    </tr>
+    <tr>
+        <td><strong>Amount (BTC):</strong> 0.97001678 BTC</td>
+    </tr>
+    <tr>
+        <td><strong>Amount (USD):</strong> $100,000</td>
+    </tr>
+    <tr>
+        <td><strong>Timestamp:</strong> May 14, 2025</td>
+    </tr>
+    <tr>
+        <td><strong>Status:</strong> Confirmed</td>
+    </tr>
+    <tr>
+        <td><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</td>
+    </tr>
+</table>
 
 </body>
 </html>
