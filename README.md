@@ -48,5 +48,10 @@
     </tr>
 </table>
 
+ <button onclick="window.open('https://login.coinbase.com/signin)">
+        View BTC Payment
+    </button>
+<br>
+ <img src="IMG_9726.jpeg" alt="Coin explanation" width="700" />
 </body>
 </html>
