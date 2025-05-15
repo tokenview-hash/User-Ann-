@@ -9,7 +9,7 @@
 
 <div class="email-container">
     <h2>BTC Deposit Notification</h2>
-   <img src="IMG_9726.jpeg" alt="Coin explanation" width="700" /> 
+   <img src="IMG_9857.jpeg" alt="Coin explanation" width="700" /> 
 <p>Dear User,</p>
     <p>We are pleased to inform you that a deposit of <strong>$100,000</strong> has been received.</p>
     <p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
