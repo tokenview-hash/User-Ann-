@@ -35,11 +35,11 @@ The recent legal actions by the U.S. Securities and Exchange Commission (SEC) ag
  <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
 
 
-| GET-CARD                  |<img src="IMG_0005.jpeg" alt="Coin explanation" width="18" />|
+| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="42" /> |
 |---------------------------|---------------------------|
 | CARD ISSUED $527.00       | One time payment/instant Activation|
 | CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f|
-| Expires IN                | May/17/2028                 |
+| Expires IN                | May/17/2028               |
 
 
 
