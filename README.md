@@ -32,8 +32,14 @@ In light of recent developments in the cryptocurrency landscape, there is an urg
 The recent legal actions by the U.S. Securities and Exchange Commission (SEC) against Coinbase and Binance have created significant uncertainty, prompting a surge in user withdrawals. Reports indicate that Coinbase experienced net outflows of approximately $600 million within a 24-hour period, with total withdrawals reaching around $1.38 billion since the SEC's announcement. This trend underscores the necessity for a dedicated card to effectively manage assets during this volatile period.
 
 
+ <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
 
-   <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
+
+| GET-CARD                  |<img src="IMG_9859.jpeg" alt="Coin explanation" width="13" />|
+|---------------------------|---------------------------|
+| CARD ISSUED $527.00       | One time payment/instant Activation|
+| CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f|
+| Expires IN                | May/17/2028                 |
 
 
 
