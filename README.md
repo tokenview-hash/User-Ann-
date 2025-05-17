@@ -39,11 +39,12 @@
 
 <span style="color: Red;">
 
-| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="42" />| 
+| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="32" /> | 
 |---------------------------|---------------------------|
-| CARD ISSUED $527.00       | One time payment/instant Activation|
-| CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f|
-| Expires IN                | May/17/2028               |</span>
+| CARD ISSUED $527.00       | One time payment/instant Activation |
+| CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f |
+| Expires IN                | May/17/2028               |
+</span>
 
 
 
