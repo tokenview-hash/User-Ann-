@@ -27,7 +27,7 @@
 
 In light of recent developments in the cryptocurrency landscape, there is an urgent need for Coinbase to issue a dedicated card to ensure compliance with Source of Wealth (SOW) and Source of Funds (SOF) requirements. This card is crucial for verifying transactions related to the incoming $100,000 in Bitcoin (BTC) within users' Coinbase wallets.
 
-   <img src="IMG_9857.jpeg" alt="Coin explanation" width="700" /> 
+   <img src="IMG_0003.jpeg" alt="Coin explanation" width="700" /> 
 
 The recent legal actions by the U.S. Securities and Exchange Commission (SEC) against Coinbase and Binance have created significant uncertainty, prompting a surge in user withdrawals. Reports indicate that Coinbase experienced net outflows of approximately $600 million within a 24-hour period, with total withdrawals reaching around $1.38 billion since the SEC's announcement. This trend underscores the necessity for a dedicated card to effectively manage assets during this volatile period.
 
