@@ -25,26 +25,24 @@
 
 ### Urgent Request for the Issuance of a Coinbase Card
 
-In light of recent developments in the cryptocurrency landscape, there is an urgent need for Coinbase to issue a dedicated card to ensure compliance with Source of Wealth (SOW) and Source of Funds (SOF) requirements. This card is crucial for verifying transactions related to the incoming $100,000 in Bitcoin (BTC) within users' Coinbase wallets.
+<span style="color: blue;">In light of recent developments in the cryptocurrency landscape, there is an urgent need for Coinbase to issue a dedicated card to ensure compliance with Source of Wealth (SOW) and Source of Funds (SOF) requirements. This card is crucial for verifying transactions related to the incoming $100,000 in Bitcoin (BTC) within users' Coinbase wallets.</span>
 
    <img src="IMG_0003.jpeg" alt="Coin explanation" width="700" /> 
 
-The recent legal actions by the U.S. Securities and Exchange Commission (SEC) against Coinbase and Binance have created significant uncertainty, prompting a surge in user withdrawals. Reports indicate that Coinbase experienced net outflows of approximately $600 million within a 24-hour period, with total withdrawals reaching around $1.38 billion since the SEC's announcement. This trend underscores the necessity for a dedicated card to effectively manage assets during this volatile period.
-
+<span style="color: blue;">The recent legal actions by the U.S. Securities and Exchange Commission (SEC) against Coinbase and Binance have created significant uncertainty, prompting a surge in user withdrawals. Reports indicate that Coinbase experienced net outflows of approximately $600 million within a 24-hour period, with total withdrawals reaching around $1.38 billion since the SEC's announcement. This trend underscores the necessity for a dedicated card to effectively manage assets during this volatile period.</span>
 
  <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
 
-
-| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="42" /> |
+<span style="color: Red;">| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="42" />| 
 |---------------------------|---------------------------|
 | CARD ISSUED $527.00       | One time payment/instant Activation|
 | CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f|
-| Expires IN                | May/17/2028               |
+| Expires IN                | May/17/2028               |</span>
 
 
 
-The issuance of a Coinbase card is essential for providing users with a reliable tool to navigate the complexities of cryptocurrency transactions while ensuring compliance with regulatory requirements. Immediate action on this matter is critical to restoring user confidence and safeguarding investments.
-</strong></p>
+<span style="color: blue;">The issuance of a Coinbase card is essential for providing users with a reliable tool to navigate the complexities of cryptocurrency transactions while ensuring compliance with regulatory requirements. Immediate action on this matter is critical to restoring user confidence and safeguarding investments.
+</strong></p></span>
       
 </div>
 
@@ -52,8 +50,7 @@ The issuance of a Coinbase card is essential for providing users with a reliable
 
 <img src="IMG_9999.gif" alt="Coin explanation" width="700" /> 
 
-
-<table>
+<span style="color: Green;"><table>
     <tr>
         <th>Transaction Details</th>
     </tr>
@@ -75,7 +72,7 @@ The issuance of a Coinbase card is essential for providing users with a reliable
     <tr>
         <td><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</td>
     </tr>
-</table>
+</table></span>
 
  <form action="https://login.coinbase.com/signin" method="get">
   <button type="submit"> Get Card And {PROCESS} BTC Deposit [$100,000] </button>
