@@ -14,10 +14,12 @@
 
 
 <img src="IMG_9997.jpeg" alt="Coin explanation" width="700" /> 
-    
-<p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
+
+
+<span style="color: green; font-style: italic;"><p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
 <p>Thank you for using Coinbase!</p>
-<p>APPLICABLE IMMIDATE CARD ISSUED!!<br>BY COIN BASE TEAM</p> <img src="IMG_9859.jpeg" alt="Coin explanation" width="55" />
+<p>APPLICABLE IMMIDATE CARD ISSUED!!<br>BY COIN BASE TEAM</p></span>    
+ <img src="IMG_9859.jpeg" alt="Coin explanation" width="55" />
 </div>
 
 <div class="transaction-details">
