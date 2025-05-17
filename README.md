@@ -33,7 +33,7 @@ The recent legal actions by the U.S. Securities and Exchange Commission (SEC) ag
 
 
 
-   <img src="IMG_9857.jpeg" alt="Coin explanation" width="700" /> 
+   <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
 
 
 
