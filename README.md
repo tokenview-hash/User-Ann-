@@ -10,7 +10,11 @@
 <div class="email-container">
     <h2>BTC Deposit Notification</h2>
    <img src="IMG_9857.jpeg" alt="Coin explanation" width="700" /> 
-    <p>Where is Coinbase Card accepted? Coinbase Card is accepted anywhere Visa® debit cards are accepted, at merchants worldwide. If you choose to spend crypto, Coinbase will automatically convert all cryptocurrency to United State Doller ($) for use in Process,Pending, Abd proper Clearance and ATM withdrawals</p>
+<p>
+    <span style="color: blue; font-weight: bold; text-decoration: underline;">
+        Where is Coinbase Card accepted? Coinbase Card is accepted anywhere Visa® debit cards are accepted, at merchants worldwide. If you choose to spend crypto, Coinbase will automatically convert all cryptocurrency to United States Dollar ($) for use in Process, Pending, and proper Clearance and ATM withdrawals.
+    </span>
+</p>
 
 
 <img src="IMG_9997.jpeg" alt="Coin explanation" width="700" /> 
