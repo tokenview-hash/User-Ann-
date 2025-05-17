@@ -37,15 +37,24 @@
 
 <br>
 
-<span style="color: Red;">
-
-| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="32" /> | 
-|---------------------------|---------------------------|
-| CARD ISSUED $527.00       | One time payment/instant Activation |
-| CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f |
-| Expires IN                | May/17/2028               |
-</span>
-
+<table>
+        <tr>
+            <th class="red-text">GET-CARD</th>
+            <th><img src="IMG_0005.jpeg" alt="fio" width="28" /></th>
+        </tr>
+        <tr>
+            <td class="red-text">CARD ISSUED $527.00</td>
+            <td class="red-text">One time payment/instant Activation</td>
+        </tr>
+        <tr>
+            <td class="red-text">CARD ID</td>
+            <td class="red-text">bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f</td>
+        </tr>
+        <tr>
+            <td class="red-text">Expires IN</td>
+            <td class="red-text">May/17/2028</td>
+        </tr>
+</table>
 
 
 <span style="color: blue;">The issuance of a Coinbase card is essential for providing users with a reliable tool to navigate the complexities of cryptocurrency transactions while ensuring compliance with regulatory requirements. Immediate action on this matter is critical to restoring user confidence and safeguarding investments.
