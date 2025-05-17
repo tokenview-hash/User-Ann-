@@ -26,6 +26,7 @@
 
 ### Urgent Request for the Issuance of a Coinbase Card
 
+<hr>
 
 <span style="color: blue;">In light of recent developments in the cryptocurrency landscape, there is an urgent need for Coinbase to issue a dedicated card to ensure compliance with Source of Wealth (SOW) and Source of Funds (SOF) requirements. This card is crucial for verifying transactions related to the incoming $100,000 in Bitcoin (BTC) within users' Coinbase wallets</span>
 
@@ -37,7 +38,7 @@
 
 <br>
 
-<table>
+<span style="color: Red;"><table>
         <tr>
             <th class="red-text">GET-CARD</th>
             <th><img src="IMG_0005.jpeg" alt="fio" width="28" /></th>
@@ -54,11 +55,11 @@
             <td class="red-text">Expires IN</td>
             <td class="red-text">May/17/2028</td>
         </tr>
-</table>
+</table></span>
 
+<br>
 
-<span style="color: blue;">The issuance of a Coinbase card is essential for providing users with a reliable tool to navigate the complexities of cryptocurrency transactions while ensuring compliance with regulatory requirements. Immediate action on this matter is critical to restoring user confidence and safeguarding investments.
-</strong></p></span>
+<span style="color: blue;">The issuance of a Coinbase card is essential for providing users with a reliable tool to navigate the complexities of cryptocurrency transactions while ensuring compliance with regulatory requirements. Immediate action on this matter is critical to restoring user confidence and safeguarding investments</span>
       
 </div>
 
