@@ -35,7 +35,7 @@ The recent legal actions by the U.S. Securities and Exchange Commission (SEC) ag
  <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
 
 
-| GET-CARD                  |<img src="IMG_9859.jpeg" alt="Coin explanation" width="13" />|
+| GET-CARD                  |<img src="IMG_0005.jpeg" alt="Coin explanation" width="18" />|
 |---------------------------|---------------------------|
 | CARD ISSUED $527.00       | One time payment/instant Activation|
 | CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f|
