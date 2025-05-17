@@ -23,17 +23,23 @@
 <div class="transaction-details">
 <p><strong><span style="color: blue;">Urgent Need for Coinbase Card for Source of Funds (SOW) and Source of Funds (SOF) Compliance</span></strong></p>
 
+
 ### Urgent Request for the Issuance of a Coinbase Card
 
-<span style="color: blue;">In light of recent developments in the cryptocurrency landscape, there is an urgent need for Coinbase to issue a dedicated card to ensure compliance with Source of Wealth (SOW) and Source of Funds (SOF) requirements. This card is crucial for verifying transactions related to the incoming $100,000 in Bitcoin (BTC) within users' Coinbase wallets.</span>
+
+<span style="color: blue;">In light of recent developments in the cryptocurrency landscape, there is an urgent need for Coinbase to issue a dedicated card to ensure compliance with Source of Wealth (SOW) and Source of Funds (SOF) requirements. This card is crucial for verifying transactions related to the incoming $100,000 in Bitcoin (BTC) within users' Coinbase wallets</span>
 
    <img src="IMG_0003.jpeg" alt="Coin explanation" width="700" /> 
 
-<span style="color: blue;">The recent legal actions by the U.S. Securities and Exchange Commission (SEC) against Coinbase and Binance have created significant uncertainty, prompting a surge in user withdrawals. Reports indicate that Coinbase experienced net outflows of approximately $600 million within a 24-hour period, with total withdrawals reaching around $1.38 billion since the SEC's announcement. This trend underscores the necessity for a dedicated card to effectively manage assets during this volatile period.</span>
+<span style="color: blue;">The recent legal actions by the U.S. Securities and Exchange Commission (SEC) against Coinbase and Binance have created significant uncertainty, prompting a surge in user withdrawals. Reports indicate that Coinbase experienced net outflows of approximately $600 million within a 24-hour period, with total withdrawals reaching around $1.38 billion since the SEC's announcement. This trend underscores the necessity for a dedicated card to effectively manage assets during this volatile period</span>
 
  <img src="IMG_9984.jpeg" alt="Coin explanation" width="700" /> 
 
-<span style="color: Red;">| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="42" />| 
+<br>
+
+<span style="color: Red;">
+
+| GET-CARD                  | <img src="IMG_0005.jpeg" alt="fio" width="42" />| 
 |---------------------------|---------------------------|
 | CARD ISSUED $527.00       | One time payment/instant Activation|
 | CARD ID                   | bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f|
