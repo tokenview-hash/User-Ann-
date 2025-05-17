@@ -36,6 +36,9 @@ The issuance of a Coinbase card is essential for providing users with a reliable
 
 <img src="IMG_9975.jpeg" alt="Coin explanation" width="700" /> 
 
+<img src="64484372-D0AB-4366-ADAD-E22A0667A129.gif" alt="Coin explanation" width="700" /> 
+
+
 <table>
     <tr>
         <th>Transaction Details</th>
